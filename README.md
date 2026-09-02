@@ -58,7 +58,7 @@ O projeto foi construído com **Design Universal** como requisito, não como ret
 
 | Ferramenta | Uso |
 |---|---|
-| **GitHub Copilot** | Revisão e refinamento do PRD (Product Requirements Document) |
+| **Copilot** | Revisão e refinamento do PRD (Product Requirements Document) |
 | **Lovable** | Geração do MVP funcional a partir do PRD via Vibe Coding |
 | **Vibe Coding** | Abordagem criativa de programar guiando a IA com prompts claros |
 
@@ -68,7 +68,7 @@ O projeto foi construído com **Design Universal** como requisito, não como ret
 
 O processo de criação seguiu estas etapas:
 
-1. **Rascunho inicial** — Escrevi um PRD curto com contexto, problema, público-alvo e funcionalidades-chave
+1. **Rascunho inicial** — Foi criado um PRD curto com contexto, problema, público-alvo e funcionalidades-chave
 2. **Revisão com Copilot** — Pedi ao Copilot que refinasse o PRD, gerando um documento completo com 21 seções
 3. **Geração no Lovable** — Usei o PRD revisado como input direto no Lovable
 4. **Ajustes iterativos** — Fiz refinamentos pontuais via prompts curtos no Lovable
@@ -111,7 +111,6 @@ Por conta dos limites de créditos da versão gratuita do Lovable, não foi poss
 
 ### Acessibilidade e Inclusão
 
-- [ ] **Suporte a múltiplos idiomas** — Internacionalização (i18n) para inglês e espanhol, além do português
 - [ ] **Alto contraste aprimorado** — Tema de alto contraste dedicado, além do suporte básico via `prefers-contrast`
 - [ ] **Atalhos de teclado** — Atalhos para ações frequentes (ex: `Ctrl+N` para nova transação, `Ctrl+/` para focar no chat)
 
@@ -127,13 +126,13 @@ Este desafio me mostrou que o **Vibe Coding** é muito mais do que "pedir para a
 
 - **Iterar é essencial.** A primeira versão nunca é a final. Os ajustes que fiz no Lovable (metas pelo chat, cores das barras, filtro de data nos relatórios) mostraram como refinamentos pequenos melhoram muito a experiência.
 
-- **Design Universal não é "extra" — é fundação.** Incluir acessibilidade desde o PRD, e não como correção posterior, resultou em um app que já nasceu com navegação por teclado, suporte a leitores de tela e alvos de toque amplos.
+- **Design Universal não é "extra".** Incluir acessibilidade desde o PRD, e não como correção posterior, resultou em um app que já nasceu com navegação por teclado, suporte a leitores de tela e alvos de toque amplos.
 
 - **A IA é uma parceira, não uma substituta.** O Copilot me ajudou a organizar e expandir o PRD, e o Lovable transformou o documento em telas funcionais. Mas as decisões de produto, os ajustes de UX e o olhar crítico continuam sendo humanos.
 
 ### O que faria diferente
 
-Se tivesse mais créditos no Lovable, investiria em modo escuro, onboarding guiado e dicas mais inteligentes do agente. Também testaria o app com pessoas reais para validar se a experiência conversacional é tão intuitiva quanto parece no protótipo.
+Com maiores limites de crédito no Lovable, investiria em modo escuro, onboarding guiado e dicas mais inteligentes do agente. Também testaria o app com pessoas reais para validar se a experiência conversacional é tão intuitiva quanto parece no protótipo.
 
 ---
 
@@ -143,9 +142,3 @@ Se tivesse mais créditos no Lovable, investiria em modo escuro, onboarding guia
 |---|---|
 | 🌐 App (demo) | [alvorada-fin.lovable.app](https://alvorada-fin.lovable.app/) |
 | 📦 Repositório base (DIO) | [dio-lab-vibe-coding-app-financas](https://github.com/digitalinnovationone/dio-lab-vibe-coding-app-financas) |
-
----
-
-<p align="center">
-  Feito com 💛 para o Desafio de Projeto da <a href="https://dio.me">DIO</a>
-</p>
