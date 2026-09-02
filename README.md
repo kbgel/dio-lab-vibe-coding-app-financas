@@ -79,7 +79,7 @@ Todas as interações estão documentadas na pasta [`prompts/`](prompts/):
 
 | Arquivo | Conteúdo |
 |---|---|
-| [`interacoes-ias.md`](prompts/interacoes-ias.md) | Resumo organizado: prompt inicial, visão geral do PRD e ajustes feitos no Lovable |
+| [`interacoes-ias.md`](prompts/interacoes-ia.md) | Resumo organizado: prompt inicial, visão geral do PRD e ajustes feitos no Lovable |
 | [`prd-revisado.md`](prompts/prd-revisado.md) | Arquivo completo com o PRD na íntegra (21 seções, ~400 linhas) |
 
 ---
